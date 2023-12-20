@@ -30,4 +30,4 @@ void times_table(void)
 
 		_putchar('\n'); /* Move to the next line */
 	}
-}}
+}
